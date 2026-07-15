@@ -7,3 +7,9 @@ langchain-google-genai
 python-dotenv
 ipykernel
 langchain-tavily
+pypdf
+pymupdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+chromadb
