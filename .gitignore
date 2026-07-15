@@ -32,3 +32,5 @@ Thumbs.db
 *.log
 
 Traditional RAG/data/
+
+Vectorless RAG/pdfs/
